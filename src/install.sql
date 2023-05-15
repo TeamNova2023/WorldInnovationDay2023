@@ -17,6 +17,8 @@ prompt --install
 @@application/shared_components/files/depositphotos_101574798_stock_illustration_handshake_logo_design_jpg.sql
 @@application/shared_components/files/openai_logo_jpg.sql
 @@application/shared_components/files/nourishaid_png.sql
+@@application/shared_components/files/apex_data_pkg_company_291333_zip.sql
+@@application/shared_components/files/apex_data_pkg_ingredients_759573_zip.sql
 @@application/plugin_settings.sql
 @@application/shared_components/security/authorizations/administration_rights.sql
 @@application/shared_components/navigation/navigation_bar.sql
@@ -119,6 +121,8 @@ prompt --install
 @@application/pages/page_09999.sql
 @@application/deployment/definition.sql
 @@application/deployment/install/install_tables.sql
+@@application/deployment/install/install_company_data.sql
+@@application/deployment/install/install_ingredients_data.sql
 @@application/deployment/checks.sql
 @@application/deployment/buildoptions.sql
 @@application/end_environment.sql

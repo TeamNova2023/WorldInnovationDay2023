@@ -49,9 +49,9 @@ wwv_flow_imp.create_flow(
 ,p_substitution_string_01=>'APP_NAME'
 ,p_substitution_value_01=>'Food App'
 ,p_last_updated_by=>'ASCARFF'
-,p_last_upd_yyyymmddhh24miss=>'20230515075626'
+,p_last_upd_yyyymmddhh24miss=>'20230515080049'
 ,p_file_prefix => nvl(wwv_flow_application_install.get_static_app_file_prefix,'')
-,p_files_version=>22
+,p_files_version=>24
 ,p_print_server_type=>'NATIVE'
 ,p_is_pwa=>'Y'
 ,p_pwa_is_installable=>'N'
