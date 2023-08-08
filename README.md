@@ -4,5 +4,5 @@
 This is the codebase for Team Nova's NourishAId app, created for the UN's World Innovation Day 2023 hackathon, run by Hackmakers. The app was built using Oracle APEX and all the source code along with the installation scripts can be found in `/src`.
 
 <B>Project Youtube Video Link</b></br>
-https://youtu.be/i3C1NfUBwTk
+https://www.youtube.com/watch?v=i3C1NfUBwTk 
 
